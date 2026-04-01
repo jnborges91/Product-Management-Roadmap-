@@ -1,5 +1,4 @@
 # Product-Management-Roadmap-
-# Product Management Roadmap
 
 Este repositório documenta minha jornada de estudos para me tornar **Product Manager em Tecnologia**, com foco em dados, inteligência artificial e criação de produtos digitais.
 

@@ -1,24 +1,38 @@
 # Product-Management-Roadmap-
-# Product Management Roadmap - Projeto Caixa Econômica
+# Product Management Roadmap
 
-Este repositório foi criado como parte de um projeto da **Caixa Econômica** e tem como objetivo documentar minha jornada de aprendizado em **Product Management em Tecnologia**.  
-Aqui estão reunidos estudos, práticas e entregáveis que demonstram minha evolução e preparo para atuar como Product Manager.
+Este repositório documenta minha jornada de estudos para me tornar **Product Manager em Tecnologia**, com foco em dados, inteligência artificial e criação de produtos digitais.
 
-## 🎯 Objetivos
-- Consolidar fundamentos de Product Management
-- Aplicar conceitos em um projeto de portfólio
-- Utilizar GitHub como ferramenta de registro e apresentação
-- Preparar material para entrevistas e futura atuação profissional
+## 🎯 Objetivo
+Conquistar meu primeiro emprego como Product Manager, construindo portfólio e consolidando fundamentos.
 
-## 📂 Conteúdo
-- `fundamentos/` → resumos e conceitos básicos
-- `dados/` → exercícios de métricas e SQL
+## 📅 Cronograma de Estudos (120 dias)
+- **Mês 1:** GitHub + Fundamentos de Product Management
+- **Mês 2:** Prática (backlog, priorização, benchmarking)
+- **Mês 3:** Projeto de Portfólio (MVP + métricas)
+- **Mês 4:** Entrevistas e refinamento
+
+## 📂 Estrutura
+- `fundamentos/` → resumos e conceitos
+- `dados/` → exercícios de SQL e dashboards
 - `portfolio/` → projeto de app de hábitos saudáveis
 - `entrevistas/` → roteiro de perguntas e respostas
 
 ## 🚀 Projeto de Portfólio
 **App de Hábitos Saudáveis com Insights de Dados**  
-Um MVP conceitual que ajuda usuários a monitorar hábitos e gera insights simples com base em dados coletados.  
-Toda a documentação e evolução do projeto está registrada neste repositório.
+- Documento de visão do produto  
+- Backlog inicial com 10 features  
+- Dashboard com métricas simuladas  
+- Publicação completa neste repositório
 
----
+## 💡 Como usar este repositório
+Cada semana de estudo terá commits com:
+- Resumos em Markdown
+- Exercícios práticos
+- Atualizações do projeto de portfólio
+
+## 📌 Status
+- [x] Configuração inicial do GitHub  
+- [ ] Fundamentos de Product Management  
+- [ ] Projeto de Portfólio  
+- [ ] Preparação para entrevistas

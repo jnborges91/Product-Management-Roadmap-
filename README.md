@@ -1,4 +1,5 @@
-# Product-Management-Roadmap-# Product Management Roadmap - Projeto Caixa Econômica
+# Product-Management-Roadmap-
+# Product Management Roadmap - Projeto Caixa Econômica
 
 Este repositório foi criado como parte de um projeto da **Caixa Econômica** e tem como objetivo documentar minha jornada de aprendizado em **Product Management em Tecnologia**.  
 Aqui estão reunidos estudos, práticas e entregáveis que demonstram minha evolução e preparo para atuar como Product Manager.
